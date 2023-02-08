@@ -1,0 +1,36 @@
+.header-color{
+        background-color: rgb(7, 135, 232);
+}
+
+.text-italic{
+        font-style: italic;
+}
+
+.text-red{
+        color: red;
+}
+
+.padding-bottom{
+        padding-bottom: 50px;
+        height: 1000px;
+
+}
+
+.text-tnr{
+        font-family: 'Times New Roman', Times, serif;
+}
+
+.hide{
+        display: none;
+}
+
+img{
+        max-width: 100%;
+        border-radius: 7px;
+       }
+
+.text-gras{
+        font-weight: bold;
+        font-size: 17px;
+    }
+

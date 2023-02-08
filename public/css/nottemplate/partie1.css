@@ -1,0 +1,455 @@
+.leftsize{
+    margin-left: 3%;
+    margin-top: 50px;
+}
+
+.leftsize-hauteur{
+    margin-left: 3%;
+    margin-top:5px ;
+}
+
+.text-colo-hite{
+   color: white;
+}
+
+.imgtaille{
+    width: 100px;
+    height: 100px;
+    position:relative;
+    z-index:10;
+    background-clip : content-box;
+}
+
+.ecart-droite{
+    margin-right: 25px;
+}
+.divecart{
+    padding: 20px;
+}
+
+.imgtaille-1{
+    width: 80px;
+    height: 80px;
+   /*  border-radius: 250px; */
+    position:relative;
+    z-index:10;
+    background-clip : content-box;
+    float: left;
+    margin-bottom: 20px;
+}
+
+.ecart-gauche{
+    margin-left: 10px;
+}
+
+.time-new-rooman{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.navcolor{
+    background-color: rgb(75, 65, 65);
+}
+
+.divlogin{
+  
+   margin-top: 60px;
+
+}
+
+.taille-logo{
+    width: 100px;
+    height: 70px;
+}
+
+ .ecart {
+    margin-right:50px;
+    color: white;
+  }
+
+  
+  .text{
+    font-family: 'Times New Roman', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  .edupay{
+    color: white;
+    font-family: 'Times New Roman', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+  }
+
+.color-message{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.color-message-otp{
+    color: rgb(0, 145, 255);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.navtextcolor{
+    color: white;
+    font-family: 'Times New Roman', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+   
+}
+  .color{
+       background-color: rgba(0, 0, 0, 0.919);
+  }
+
+.rightsize{
+    margin-top: 50px;
+}
+
+.eleve{
+    font-size: 15px;
+    color: red;
+    font-weight: bold;
+}
+
+.labelexpanded > input{
+   display: none;
+   
+}
+
+.font{
+    font-weight: lighter;
+}
+
+.labelexpanded input:checked + .radio-btms{
+    background-color: green;
+    color: chartreuse;
+    border:solid green;
+ }
+
+
+ .cacherinput  > input{
+    display: none;
+    
+ }
+
+.radio-btms{
+    padding: 5px ;
+    border: black;
+}
+
+.color{
+    border-radius: 3px;
+    font-size: 18px;
+    font-weight: lighter;
+    color: rgba(238, 8, 8, 0.804);
+}
+
+.color-1{
+    border-radius: 3px;
+    font-size: 18px;
+    font-weight: lighter;
+    color: rgba(238, 8, 8, 0.804);
+    margin-left: 0%;
+}
+
+.taille_titre_1{
+    font-size: 19px;
+    font-weight: bolder;
+    margin-top: 4px;
+}
+
+.taille_titre_2{
+    font-size: 17px;
+    font-weight: lighter;
+    margin-top: 4px;
+}
+
+.taille_titre_3{
+    font-size: 15px;
+    font-weight: lighter;
+    margin-top: 4px;
+    padding: 5px ;
+    color: red;
+}
+
+.taille_titre_4{
+    font-size: 13px;
+    font-weight: bolder;
+    color: rgba(183, 13, 13, 0.945);
+}
+
+.bouton-n-1{
+    margin-top: 10px; 
+    color: white; 
+    width: 150px;
+} 
+
+
+.bouton-paiement{
+    color: white;
+    width: 50%; 
+    margin-left: 50%;
+     
+}
+
+.btn-google {
+    color: #5e4848;
+    background-color: #e5dede;
+    box-shadow: 0 1px 2px 1px #ddd;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.btn-login {
+    color: rgb(71, 61, 61);
+    background-color: #e5dede;
+    box-shadow: 0 1px 2px 1px #ddd;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.line-separator {
+    background-color: rgba(204, 204, 204, 0.326);
+    flex-grow: 5;
+    height: 3px;
+    margin-top: 30px;
+}
+
+.indication-1{
+    margin-left: 10px;
+    margin-top: 2px;
+    
+}
+
+.colorwrite{
+   color: rgb(15, 161, 15);
+   font-size: 15px;
+   font-weight: bold;
+}
+
+.ecartalert{
+    margin-left: 25px;
+}
+
+.principal{
+    margin-top: 20px;
+}
+
+.ecart-input{
+    margin-top: 10px;
+}
+
+.csspaiement{
+    margin-top: 5px;
+}
+
+.moyen{
+   background-color: rgb(238, 221, 221);
+   font-size: 20px;
+   color: black;
+   padding-bottom: 7px;
+   margin-bottom: 5px;
+   border-radius: 3px;
+}
+
+.left{
+    margin-left: 1px;
+}
+
+.longeur{
+    width: 20%;
+    float: left;
+    margin-left: 77% ;
+}
+
+
+
+.longeur-1{
+    
+    float: left;
+    width: 200px;
+    margin-left: 55% ; 
+    margin-right: 0px;
+    margin-bottom: 10px;
+    margin-top: 100px; 
+} 
+
+.longeur-2{
+    
+    float: left;
+    width: 200px; 
+    margin-left: 13px;
+    margin-bottom: 10px;
+    margin-top: 10px; 
+} 
+
+.couleur-ducorps{
+    background-color: #f4f5f7;;
+}
+
+.formecolor{
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.asuster{
+   font-weight: lighter;
+   border-radius: 5px;
+   background-color: white; 
+   padding: 8px;
+   margin: 10px;
+   font-family: 'Times New Roman', Times, serif;
+   
+}
+
+.asuster-2{
+    background-color: white; 
+    padding: 10px;
+    
+ }
+
+ .asuster-3{
+    background-color: white; 
+    padding: 10px;
+    
+ }
+
+.ecart-1{
+    padding-left: 8px;
+}
+
+.asuster-1{
+    background-color:  white;
+    border-radius: 5px;
+    padding: 8px;
+    margin: 15px;
+    margin-top: 5px;
+}
+
+.marge{
+ margin: 15px;
+ font-size: 20px;
+}
+
+.Lamarge{
+    margin: 15px;
+   }
+   
+
+.table-assus{
+    margin: 20px;
+
+}
+
+.gras{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.taille_tableau{
+    font-size: 15px;
+    background-color: #a49b9b;
+    font-weight: bold;
+}
+
+.image{
+    margin-left: 2px;
+    /* border-bottom: solid 2px rgb(86, 76, 76); */
+}
+
+.titre-1{
+    font-weight: lighter;
+    font-size: 20px;
+}
+
+.tailleinput{
+    width:5em;
+    height:1em;
+}
+
+.ecart-radio{
+    margin-left: 70px;
+}
+
+.ecart-div-radio{
+    margin-top: 10px;
+}
+
+.inscription{
+   border-radius: 5px;
+   background-color: white; 
+   margin: 8px;
+}
+
+.emailgestion{
+    font-weight: bold;
+}
+
+.titre{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.infocolor{
+    color: rgba(238, 8, 8, 0.804);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.geredivphoto{
+    background-color: rgb(215, 145, 215);
+    border-radius: 2px;
+    margin-left: 14px;
+    margin-right: 14px;
+    padding: 20px;
+}
+
+.bordure-cadante{
+    border: solid rgba(170, 156, 156, 0.51) 2px; 
+    border-radius: 10px;
+}
+
+.formecontour{
+    background-color: white; 
+    border-radius: 10px;
+    border: solid rgb(223, 212, 212);   
+}
+
+.forme-contour{
+    background-color: white; 
+    border: solid rgb(223, 212, 212);   
+}
+
+.principal-verify{
+    margin-top: 100px;
+    
+}
+
+.image{
+  
+    background-repeat: no-repeat;
+}
+
+.margeEnHaut{
+    padding-top: 20px;
+}
+
+.floatt{
+  margin-left: auto;
+}
+
+.color_tete{
+  
+   padding: 5px;
+}
+
+.logo{
+      width: 100px;
+      height: 70px;
+      border-radius: 10px;
+      margin-left: 28px;
+}
+
+.couleur{
+   color: red;
+   font-size: 10px;
+   
+}
+
+
