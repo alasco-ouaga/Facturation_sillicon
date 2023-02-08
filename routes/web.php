@@ -116,7 +116,7 @@ Route::middleware('auth')->group(function(){
         Route::post("/pay_invoice",[PaymentController::class, "pay_invoice"])->name("pay_invoice");
         Route::get("/recu",[PaymentController::class, "recu"])->name("recu_essai");
 
-        //profile
+        //gestion de profile
         Route::get("/get/profil",[UsersController::class, "get_user_profil"])->name("get_user_profil");
         Route::get("/update/profil",[UsersController::class, "update_user_profil"])->name("update_user_profil");
         Route::post("/save/user/image",[UsersController::class, "save_user_image"])->name("save_user_image");
